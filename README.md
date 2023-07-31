@@ -1,2 +1,2 @@
 # Project
-Coding class final project
+This is my final project for my coding class. 
